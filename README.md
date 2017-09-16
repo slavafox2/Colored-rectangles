@@ -1,6 +1,7 @@
-##Дз 1:
-Переделать тестовое задание (аккордеон) с применением делегирования.
+# Colored-rectangels
 
-asdfasdfasdf
-asdfasdfasdfasdf
-adfafdasdfasdf
+This is funny app, that can create and move colored rectangles.
+
+![1](/imagesForReadMe//1.PNG)
+
+![2](/imagesForReadMe//2.PNG)
